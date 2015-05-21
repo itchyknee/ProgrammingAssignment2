@@ -1,6 +1,6 @@
 # Test cases for cacheMatrix functions
 
-source("cacheMatrix.R")
+source("cachematrix.R")
 
 # first test to ensure inverse created
 test_that("matrix inverse is solved", {
